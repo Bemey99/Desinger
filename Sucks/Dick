@@ -1,0 +1,4 @@
+local NotifyLibrary = loadstring(game:HttpGet("https://pastebin.com/raw/7iKVGcyn"))()
+getgenv().ScriptName = "Jupiter Universal Alt Control"
+local ScriptName = getgenv().ScriptName
+local Notify = NotifyLibrary.Notify
